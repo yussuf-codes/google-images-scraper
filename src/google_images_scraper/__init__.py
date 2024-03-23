@@ -1,0 +1,1 @@
+from google_images_scraper.implementation import ScrapeImages
