@@ -71,7 +71,7 @@
 5. Install the requirements
 
     ```shell
-    pip install -r ./google-images-scraper/requirements.txt
+    pip install -r ./google_images_scraper/requirements.txt
     ```
 
 ## 🚀 Run
