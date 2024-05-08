@@ -1,6 +1,6 @@
 # google-images-scraper
 
-## ⚒️ Built With
+## ⚒️ Built using
 
 * Selenium WebDriver
 * urllib.request
