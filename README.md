@@ -19,7 +19,7 @@
 
 ## ⚙️ Installation
 
-1. [Download](https://github.com/yussuf-codes/google-images-scraper/archive/refs/heads/master.zip) or clone the repository
+1. [Download](https://github.com/yussuf-codes/google-images-scraper/archive/master.zip) or clone the repository
 
     ```shell
     git clone https://github.com/yussuf-codes/google-images-scraper.git
@@ -30,9 +30,9 @@
     > Debian GNU/Linux Bash
 
    ```bash
-   curl -o google-images-scraper.zip -L https://github.com/yussuf-codes/google-images-scraper/archive/refs/heads/master.zip
+   wget https://github.com/yussuf-codes/google-images-scraper/archive/master.zip
    sudo apt install unzip
-   unzip google-images-scraper.zip
+   unzip master.zip
    ```
 
 2. Navigate to source directory
