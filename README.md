@@ -23,9 +23,9 @@
     > Debian GNU/Linux Bash
 
    ```bash
-   wget -O google-images-scraper-master https://github.com/yussuf-codes/google-images-scraper/archive/master.zip
+   wget -O google-images-scraper-master.zip https://github.com/yussuf-codes/google-images-scraper/archive/master.zip
    sudo apt install unzip
-   unzip master.zip
+   unzip google-images-scraper-master.zip
    ```
 
 2. Navigate to source directory
