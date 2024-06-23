@@ -19,18 +19,11 @@
 
 ## ⚙️ Installation
 
-1. [Download](https://github.com/yussuf-codes/google-images-scraper/archive/master.zip) or clone the repository
-
-    ```shell
-    git clone https://github.com/yussuf-codes/google-images-scraper.git
-    ```
-
-    or
-
+1. [Download](https://github.com/yussuf-codes/google-images-scraper/archive/master.zip) the project
     > Debian GNU/Linux Bash
 
    ```bash
-   wget https://github.com/yussuf-codes/google-images-scraper/archive/master.zip
+   wget -O google-images-scraper-master https://github.com/yussuf-codes/google-images-scraper/archive/master.zip
    sudo apt install unzip
    unzip master.zip
    ```
@@ -38,7 +31,7 @@
 2. Navigate to source directory
 
     ```shell
-    cd ./google-images-scraper/src/
+    cd ./google-images-scraper-master/src/
     ```
 
 3. Create a virtual environment
