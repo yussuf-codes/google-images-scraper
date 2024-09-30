@@ -1,1 +1,1 @@
-from google_images_scraper.implementation import ScrapeImages
+from google_images_scraper.scrape_images import scrape_images

@@ -1,8 +1,8 @@
 from argparse import ArgumentParser
-from google_images_scraper import ScrapeImages
+from google_images_scraper import scrape_images
 
 
-def main():
+def main() -> None:
     parser = ArgumentParser()
 
     parser.add_argument("-q", "--qry", type=str)
@@ -11,7 +11,7 @@ def main():
 
     args = parser.parse_args()
 
-    ScrapeImages(args.qry, args.num, args.dir)
+    scrape_images(args.qry, args.num, args.dir)
 
 
 if __name__ == "__main__":

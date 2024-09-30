@@ -6,7 +6,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 
 
-def ScrapeImages(search_query: str, images_number: int, download_location: str) -> None:
+def scrape_images(search_query: str, images_number: int, download_location: str) -> None:
     THUMBNAIL_CLASS_NAME: str = "GMCzAd"
     BUTTON_CLASS_NAME: str = "FAGjZe"
     IMAGE_CLASS_NAME: str = "iPVvYb"
